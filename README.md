@@ -1,4 +1,4 @@
-## 🦒 Colab
+## 🦒 Colab TPU
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-diffusers-colab/blob/main/flax_stable_diffusion.ipynb) flax_stable_diffusion
 
 | HuggingFace Page | Model Page |
