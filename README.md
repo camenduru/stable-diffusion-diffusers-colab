@@ -1,7 +1,7 @@
 ## 🦒 Colab TPU
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-diffusers-colab/blob/main/flax_stable_diffusion.ipynb) flax_stable_diffusion
 
-| HuggingFace Page | Model Page |
+| HuggingFace Path | Model Page |
 | --- | --- |
 | flax/anything-v3.0 | https://huggingface.co/Linaqruf/anything-v3.0
 | flax/samsamart | https://huggingface.co/Danzelus/samsamart
@@ -19,5 +19,5 @@
 | flax/mo-di-diffusion | https://huggingface.co/nitrosocke/mo-di-diffusion
 | camenduru/plushies | https://huggingface.co/camenduru/plushies
 
-## Model License
+## Models License
 https://huggingface.co/spaces/CompVis/stable-diffusion-license
