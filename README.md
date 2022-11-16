@@ -1,6 +1,9 @@
 ## 🦒 Colab TPU
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-diffusers-colab/blob/main/flax_stable_diffusion.ipynb) flax_stable_diffusion
 
+## 🦆 Kaggle TPU
+https://www.kaggle.com/code/camenduru/flax-stable-diffusion
+
 | 🤗 HuggingFace Path | Model Page |
 | --- | --- |
 | flax/anything-v3.0 | https://huggingface.co/Linaqruf/anything-v3.0
@@ -21,6 +24,9 @@
 
 ## 🦒 Colab GPU
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-diffusers-colab/blob/main/pytorch_stable_diffusion.ipynb) pytorch_stable_diffusion
+
+## 🦆 Kaggle GPU
+https://www.kaggle.com/code/camenduru/pytorch-stable-diffusion
 
 | 🤗 HuggingFace Path | Model Page |
 | --- | --- |
