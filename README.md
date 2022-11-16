@@ -1,7 +1,7 @@
 ## 🦒 Colab TPU
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-diffusers-colab/blob/main/flax_stable_diffusion.ipynb) flax_stable_diffusion
 
-| HuggingFace Path | Model Page |
+| 🤗 HuggingFace Path | Model Page |
 | --- | --- |
 | flax/anything-v3.0 | https://huggingface.co/Linaqruf/anything-v3.0
 | flax/samsamart | https://huggingface.co/Danzelus/samsamart
@@ -22,7 +22,7 @@
 ## 🦒 Colab GPU
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-diffusers-colab/blob/main/pytorch_stable_diffusion.ipynb) pytorch_stable_diffusion
 
-| HuggingFace Path | Model Page |
+| 🤗 HuggingFace Path | Model Page |
 | --- | --- |
 | Linaqruf/anything-v3.0| https://huggingface.co/Linaqruf/anything-v3.0
 | Danzelus/samsamart | https://huggingface.co/Danzelus/samsamart
