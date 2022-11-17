@@ -7,7 +7,7 @@ https://www.kaggle.com/code/camenduru/flax-stable-diffusion
 | 🤗 HuggingFace Path | Model Page |
 | --- | --- |
 | flax/anything-v3.0 | https://huggingface.co/Linaqruf/anything-v3.0
-| flax/samsamart `samsamart style` | https://huggingface.co/Danzelus/samsamart
+| flax/samdoesart `samdoesarts style` | https://huggingface.co/lilpotat/sa
 | flax/Stable_Diffusion_PaperCut_Model `PaperCut style` | https://huggingface.co/Fictiverse/Stable_Diffusion_PaperCut_Model
 | flax/redshift-diffusion `redshift style` | https://huggingface.co/nitrosocke/redshift-diffusion
 | flax/sd15 | https://huggingface.co/runwayml/stable-diffusion-v1-5
@@ -31,7 +31,7 @@ https://www.kaggle.com/code/camenduru/pytorch-stable-diffusion
 | 🤗 HuggingFace Path | Model Page |
 | --- | --- |
 | Linaqruf/anything-v3.0 | https://huggingface.co/Linaqruf/anything-v3.0
-| Danzelus/samsamart `samsamart style` | https://huggingface.co/Danzelus/samsamart
+| lilpotat/sa `samdoesarts style` | https://huggingface.co/lilpotat/sa
 | Fictiverse/Stable_Diffusion_PaperCut_Model `PaperCut style` | https://huggingface.co/Fictiverse/Stable_Diffusion_PaperCut_Model
 | nitrosocke/redshift-diffusion `redshift style` | https://huggingface.co/nitrosocke/redshift-diffusion
 | camenduru/sd15 | https://huggingface.co/runwayml/stable-diffusion-v1-5
