@@ -23,6 +23,8 @@ https://www.kaggle.com/code/camenduru/flax-stable-diffusion
 | flax/classic-anim-diffusion `classic disney style` | https://huggingface.co/nitrosocke/classic-anim-diffusion
 | flax/mo-di-diffusion `modern disney style` | https://huggingface.co/nitrosocke/mo-di-diffusion
 | camenduru/plushies | https://huggingface.co/camenduru/plushies
+| flax/stable-diffusion-2 | https://huggingface.co/stabilityai/stable-diffusion-2
+| flax/stable-diffusion-2-base | https://huggingface.co/stabilityai/stable-diffusion-2-base
 
 ## 🦒 Colab GPU
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-diffusers-colab/blob/main/pytorch_stable_diffusion.ipynb) pytorch_stable_diffusion
